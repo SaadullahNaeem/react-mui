@@ -1,0 +1,1 @@
+export const BaseApiUrl = 'https://procom-interview-employee-test.azurewebsites.net'
